@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 🔭 I’m currently working on<br>Building next-gen Web3, AI & Automation solutions through my startup gpdev.in 🚀<br>Developing AI-powered platforms, lead generation systems & scalable full-stack applications.<br><br>👯 I’m looking to collaborate on<br>Web3 projects, SaaS products, AI tools, startup ideas & innovative automation systems.<br><br>🤝 I’m looking for help with<br>Scaling products, startup growth, networking with founders & building impactful tech communities.<br><br>🌱 I’m currently learning<br>Advanced AI integrations, cloud & DevOps, scalable backend architectures, and deep Web3 ecosystems.<br><br>💬 Ask me about<br>Full Stack Development, Web3, AI Agents, Automation, SaaS, Startup Building & Modern UI/UX.<br><br>⚡ Fun fact<br>I turn random startup ideas into working products faster than most people finish planning them 😄
 
 
