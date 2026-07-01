@@ -1,24 +1,218 @@
-#  About Me:
-🔭 I’m currently working on<br>Building next-gen Web3, AI & Automation solutions through my startup gpdev.in 🚀<br>Developing AI-powered platforms, lead generation systems & scalable full-stack applications.<br><br>👯 I’m looking to collaborate on<br>Web3 projects, SaaS products, AI tools, startup ideas & innovative automation systems.<br><br>🤝 I’m looking for help with<br>Scaling products, startup growth, networking with founders & building impactful tech communities.<br><br>🌱 I’m currently learning<br>Advanced AI integrations, cloud & DevOps, scalable backend architectures, and deep Web3 ecosystems.<br><br>💬 Ask me about<br>Full Stack Development, Web3, AI Agents, Automation, SaaS, Startup Building & Modern UI/UX.<br><br>⚡ Fun fact<br>I turn random startup ideas into working products faster than most people finish planning them 😄
+<!-- ANIMATED HEADER -->
+<p align="center">
+  <a href="https://gpdev.in">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=200&section=header&text=Garvit%20Prakash&fontSize=50&fontAlignY=35&fontColor=FFFFFF&animation=fadeIn" alt="Garvit Prakash" />
+  </a>
+</p>
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Full-Stack+%2B+Web3+Builder;AI+%26+Automation+Founder;Turning+ideas+into+products+fast" alt="Typing SVG" />
+</h1>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/garvit-prakash/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@GarvitPrakash_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact@gpdev.in) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![TeamCity](https://img.shields.io/badge/teamcity-000000.svg?style=for-the-badge&logo=teamcity&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white) ![CodeCov](https://img.shields.io/badge/codecov-%23ff0077.svg?style=for-the-badge&logo=codecov&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Garvit-821&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Garvit-821&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Garvit-821&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Garvit-821&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="mailto:garvitprakash2918@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/garvit-prakash"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/GarvitPrakash_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://gpdev.in"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Garvit-821&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### ⚡ What I’m All About
+
+- 🔭 **I’m currently building** next-gen Web3, AI & Automation products through my startup **[gpdev.in](https://gpdev.in)**. I architect AI-powered platforms, lead-gen engines, and full-stack SaaS apps that solve real problems.
+- 🤝 **I collaborate on** Web3 ecosystems, AI agents, SaaS tooling, and any startup idea that blends tech with real-world impact.
+- 🧠 **I’m deep-diving into** advanced AI integrations (LLMs, RAG, local models), cloud-native DevOps, and scalable backend architectures.
+- 💬 **Ask me about** Full Stack Development, Web3, AI Agents, Automation, SaaS, Startup Building, and modern UI/UX – I love sharing war stories.
+- ⚡ **Fun fact**: I turn random startup ideas into working MVPs faster than most people finish planning them. Execution > perfection.
+
+---
+
+### 🚀 Featured Projects
+
+*These aren’t just repos – they’re products I’ve built from scratch. Click through to see the code, docs, and live demos.*
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">📄 Local Ollama Doc Analyzer</h3>
+      <p align="center">
+        <a href="https://github.com/Garvit-821/Local-ollama-powered-ai-assisted-doc-analyzer"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github" /></a>
+        <br/>
+        <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+        <img src="https://img.shields.io/badge/LangChain-121D33?style=flat-square&logo=chainlink&logoColor=white" />
+        <br/>
+        <em>Chat with your documents – 100% local, 100% private. Built with Ollama, LangChain, and Streamlit.</em>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📈 Multi-Asset Algo Trading</h3>
+      <p align="center">
+        <a href="https://github.com/Garvit-821/multi-asset-algorithmic-trading-software"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github" /></a>
+        <br/>
+        <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+        <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white" />
+        <br/>
+        <em>Real-time trading engine for equities, crypto, and forex with backtesting and risk management.</em>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🧠 C.O.R.E</h3>
+      <p align="center">
+        <a href="https://github.com/Garvit-821/C.O.R.E"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github" /></a>
+        <br/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+        <br/>
+        <em>Centralized orchestration and real-time engine – a powerful dashboard for automation workflows.</em>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🤖 Jarvis</h3>
+      <p align="center">
+        <a href="https://github.com/Garvit-821/Jarvis"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github" /></a>
+        <br/>
+        <img src="https://img.shields.io/badge/Electron-191970?style=flat-square&logo=electron&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/Speech%20Recognition-4285F4?style=flat-square&logo=google&logoColor=white" />
+        <br/>
+        <em>AI-powered personal assistant with voice commands, system control, and seamless integrations.</em>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <h3>💬 Obsidian Chat</h3>
+      <p>
+        <a href="https://github.com/Garvit-821/Obsidian-Chat"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github" /></a>
+        <br/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white" />
+        <img src="https://img.shields.io/badge/AI-FF6F00?style=flat-square&logo=openai&logoColor=white" />
+        <br/>
+        <em>Conversational AI right inside your knowledge base – chat, summarize, and connect notes intelligently.</em>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🧰 Toolbox
+
+<details open>
+<summary><b>Languages & Core</b></summary>
+<br/>
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</p>
+</details>
+
+<details open>
+<summary><b>Frontend & UI</b></summary>
+<br/>
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+</details>
+
+<details open>
+<summary><b>Backend & APIs</b></summary>
+<br/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+</p>
+</details>
+
+<details>
+<summary><b>AI / ML & Automation</b></summary>
+<br/>
+<p align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-121D33?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-00C853?style=for-the-badge&logo=n8n&logoColor=white" />
+</p>
+</details>
+
+<details>
+<summary><b>Cloud, DevOps & Databases</b></summary>
+<br/>
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
+</details>
+
+---
+
+### 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Garvit-821&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garvit-821&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180em" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Garvit-821&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Garvit-821&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7" alt="trophies" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Garvit-821&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+</p>
+
+---
+
+### 🌐 Let’s Connect & Build
+
+I’m always open to collaborating on bold ideas, Web3 ventures, or AI-driven products. Whether you’re a founder, developer, or just curious, reach out – let’s turn concepts into reality.
+
+<p align="center">
+  <a href="https://calendly.com/garvitprakash/30min" target="_blank"><img src="https://img.shields.io/badge/Book_a_Call-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white" /></a>
+  <a href="https://discord.gg/your-invite"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://t.me/garvitprakash"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Garvit-821&label=Profile%20Views&color=7C3AED&style=flat" alt="visitor count" />
+</p>
+
+> “The only way to do great work is to love what you do.” – Steve Jobs
+
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=100&section=footer" />
