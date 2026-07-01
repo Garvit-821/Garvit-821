@@ -257,18 +257,18 @@
 # GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=RUDRA-PRATAP-SINGH01&show_icons=true&theme=github_dark&hide_border=true" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=RUDRA-PRATAP-SINGH01&theme=github-dark&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Garvit-821&show_icons=true&theme=github_dark&hide_border=true" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=Garvit-821&theme=github-dark&hide_border=true" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RUDRA-PRATAP-SINGH01&theme=github-dark&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Garvit-821&theme=github-darkrvit-821&hide_border=true" width="100%" />
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=RUDRA-PRATAP-SINGH01&layout=compact&theme=github_dark&hide_border=true" width="42%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Garvit-821&layout=compact&theme=github_dark&hide_border=true" width="42%" />
 </p>
 ---
 
