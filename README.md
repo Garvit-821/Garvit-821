@@ -161,7 +161,7 @@
 </p>
 </details>
 
-<details>
+<details open>
 <summary><b>AI, ML & Data Science</b></summary>
 <br/>
 <p align="left">
@@ -185,7 +185,7 @@
 </p>
 </details>
 
-<details>
+<details open>
 <summary><b>Cloud & Hosting</b></summary>
 <br/>
 <p align="left">
@@ -199,7 +199,7 @@
 </p>
 </details>
 
-<details>
+<details open>
 <summary><b>DevOps, CI/CD & Monitoring</b></summary>
 <br/>
 <p align="left">
@@ -220,7 +220,7 @@
 </p>
 </details>
 
-<details>
+<details open>
 <summary><b>Databases & ORMs</b></summary>
 <br/>
 <p align="left">
@@ -233,7 +233,7 @@
 </p>
 </details>
 
-<details>
+<details open>
 <summary><b>IoT & Hardware</b></summary>
 <br/>
 <p align="left">
@@ -243,7 +243,7 @@
 </p>
 </details>
 
-<details>
+<details open>
 <summary><b>Productivity & Collaboration</b></summary>
 <br/>
 <p align="left">
