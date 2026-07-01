@@ -209,41 +209,21 @@
 
 # 📊 GitHub Analytics
 
+# GitHub Analytics
+
 <p align="center">
-  <a href="https://github.com/Garvit-821">
-    <img src="https://github-readme-stats.vercel.app/api?username=Garvit-821&show_icons=true&bg_color=0d1117&title_color=7c3aed&icon_color=7c3aed&text_color=c9d1d9&hide_border=true&count_private=true&include_all_commits=true" width="49%" />
-  </a>
-  <a href="https://github.com/Garvit-821">
-    <img src="https://streak-stats.demolab.com?user=Garvit-821&background=0d1117&ring=7c3aed&fire=7c3aed&currStreakNum=c9d1d9&currStreakLabel=7c3aed&sideNums=c9d1d9&sideLabels=7c3aed&dates=8b949e&hide_border=true" width="49%" />
-  </a>
+  <img src="https://github-readme-stats.shion.dev/api?username=Garvit-821&show_icons=true&bg_color=0d1117&title_color=7c3aed&icon_color=7c3aed&text_color=c9d1d9&hide_border=true&v=1" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=Garvit-821&background=0d1117&ring=7c3aed&fire=7c3aed&currStreakNum=c9d1d9&currStreakLabel=7c3aed&sideNums=c9d1d9&sideLabels=7c3aed&dates=8b949e&hide_border=true&v=1" width="49%" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Garvit-821">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Garvit-821&bg_color=0d1117&color=c9d1d9&title_color=7c3aed&line=7c3aed&point=7c3aed&area=true&hide_border=true" width="98%" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Garvit-821&bg_color=0d1117&color=c9d1d9&title_color=7c3aed&line=7c3aed&point=7c3aed&area=true&hide_border=true&v=1" width="100%" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/Garvit-821">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garvit-821&layout=compact&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&hide_border=true&langs_count=8" width="42%" />
-  </a>
-</p>
+<br>
 
 <p align="center">
-  <a href="https://github.com/Garvit-821">
-    <img src="https://github-profile-trophy.vercel.app/?username=Garvit-821&theme=discord&no-frame=true&no-bg=false&margin-w=4&column=7" width="98%" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Garvit-821">
-    <img src="https://github-contributor-stats.vercel.app/api?username=Garvit-821&limit=5&theme=discord&combine_all_yearly_contributions=true&hide_border=true" width="70%" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Garvit-821&label=Profile%20Views&color=7c3aed&style=flat-square" alt="visitor count" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Garvit-821&layout=compact&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&hide_border=true&v=1" width="42%" />
 </p>
 ### 🌐 Let’s Connect & Build
 
