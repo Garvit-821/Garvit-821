@@ -1,30 +1,23 @@
-<!-- ANIMATED HEADER -->
-<p align="center">
-  <a href="https://gpdev.in">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=200&section=header&text=Garvit%20Prakash&fontSize=50&fontAlignY=35&fontColor=FFFFFF&animation=fadeIn" alt="Garvit Prakash" />
-  </a>
-</p>
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Full-Stack+%2B+Web3+Builder;AI+%26+Automation+Founder;Turning+ideas+into+products+fast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=AI+%26+LLM+Developer;Full-Stack+%2B+Web3+Builder;Founder+%40+gpdev.in" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <a href="mailto:garvitprakash2918@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/garvit-prakash"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/GarvitPrakash_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://gpdev.in"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a href="https://dev.gpdev.in"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" /></a>
 </p>
 
 ---
 
 ### ⚡ What I’m All About
 
-- 🔭 **I’m currently building** next-gen Web3, AI & Automation products through my startup **[gpdev.in](https://gpdev.in)**. I architect AI-powered platforms, lead-gen engines, and full-stack SaaS apps that solve real problems.
-- 🤝 **I collaborate on** Web3 ecosystems, AI agents, SaaS tooling, and any startup idea that blends tech with real-world impact.
-- 🧠 **I’m deep-diving into** advanced AI integrations (LLMs, RAG, local models), cloud-native DevOps, and scalable backend architectures.
-- 💬 **Ask me about** Full Stack Development, Web3, AI Agents, Automation, SaaS, Startup Building, and modern UI/UX – I love sharing war stories.
-- ⚡ **Fun fact**: I turn random startup ideas into working MVPs faster than most people finish planning them. Execution > perfection.
+- 🔭 **I’m an AI/LLM developer** building next-gen intelligent products through my startup **[gpdev.in](https://gpdev.in)**. From local RAG systems to AI‑powered hiring platforms, I turn complex ML into seamless user experiences.
+- 🤝 **I collaborate on** LLM tooling, autonomous AI agents, Web3 dApps, and SaaS that leverage generative AI & automation.
+- 🧠 **I’m deep-diving into** advanced RAG architectures, local model deployment (Ollama, LlamaIndex), cloud-native AI pipelines, and scalable backend systems.
+- 💬 **Ask me about** Large Language Models, AI‑driven automation, full‑stack SaaS, Web3 integrations, and building products that actually ship.
+- ⚡ **Fun fact**: I ship working AI MVPs faster than most people finish reading the latest model paper. Execution > perfection.
 
 ---
 
@@ -66,10 +59,11 @@
         <a href="https://github.com/Garvit-821/C.O.R.E"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github" /></a>
         <br/>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/Odoo-875A7B?style=flat-square&logo=odoo&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/AI-FF6F00?style=flat-square&logo=openai&logoColor=white" />
         <br/>
-        <em>Centralized orchestration and real-time engine – a powerful dashboard for automation workflows.</em>
+        <em>AI‑powered hiring platform: smart resume generation, one‑click portfolio builder, mock interview simulations with real‑time feedback, and AI‑driven candidate shortlisting – all integrated into an Odoo‑based backend.</em>
       </p>
     </td>
     <td width="50%">
@@ -95,7 +89,7 @@
         <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white" />
         <img src="https://img.shields.io/badge/AI-FF6F00?style=flat-square&logo=openai&logoColor=white" />
         <br/>
-        <em>Conversational AI right inside your knowledge base – chat, summarize, and connect notes intelligently.</em>
+        <em>Conversational AI inside your knowledge base – chat, summarize, and connect notes intelligently.</em>
       </p>
     </td>
   </tr>
@@ -200,7 +194,7 @@
 
 ### 🌐 Let’s Connect & Build
 
-I’m always open to collaborating on bold ideas, Web3 ventures, or AI-driven products. Whether you’re a founder, developer, or just curious, reach out – let’s turn concepts into reality.
+I’m always open to collaborating on bold AI ideas, LLM-native tools, or automation-first products. Whether you’re a founder, developer, or AI enthusiast, reach out – let’s turn concepts into reality.
 
 <p align="center">
   <a href="https://calendly.com/garvitprakash/30min" target="_blank"><img src="https://img.shields.io/badge/Book_a_Call-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white" /></a>
