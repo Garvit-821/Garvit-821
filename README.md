@@ -254,27 +254,22 @@
 
 ---
 
-### 📊 GitHub Stats & Activity
+# GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Garvit-821&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garvit-821&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180em" />
+  <img src="https://github-readme-stats.shion.dev/api?username=RUDRA-PRATAP-SINGH01&show_icons=true&theme=github_dark&hide_border=true" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=RUDRA-PRATAP-SINGH01&theme=github-dark&hide_border=true" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Garvit-821&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RUDRA-PRATAP-SINGH01&theme=github-dark&hide_border=true" width="100%" />
 </p>
+
+<br>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Garvit-821&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7" alt="trophies" />
-  </a>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=RUDRA-PRATAP-SINGH01&layout=compact&theme=github_dark&hide_border=true" width="42%" />
 </p>
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Garvit-821&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
-</p>
-
 ---
 
 ### 🌐 Let’s Connect & Build
