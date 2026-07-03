@@ -221,9 +221,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Garvit-821&bg_color=0d1117&color=c9d1d9&title_color=7c3aed&line=7c3aed&point=7c3aed&area=true&hide_border=true&cache_seconds=0" width="100%" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garvit-821&layout=compact&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&hide_border=true&cache_seconds=0" width="42%" />
-</p>
+</p> -->
 
 ### 🌐 Let’s Connect & Build
 
