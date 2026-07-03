@@ -207,23 +207,24 @@
 
 ---
 
-# 📊 GitHub Analytics
+
 
 # GitHub Analytics
 
-<p 
-  align="center"> <img src="https://github-readme-stats.shion.dev/api?username=Garvit-821&show_icons=true&bg_color=0d1117&title_color=7c3aed&icon_color=7c3aed&text_color=c9d1d9&hide_border=true&v=1" width="49%" />
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Garvit-821&show_icons=true&bg_color=0d1117&title_color=7c3aed&icon_color=7c3aed&text_color=c9d1d9&hide_border=true&v=2" width="49%" />
   
-  <img src="https://streak-stats.demolab.com?user=Garvit-821&background=0d1117&ring=7c3aed&fire=7c3aed&currStreakNum=c9d1d9&currStreakLabel=7c3aed&sideNums=c9d1d9&sideLabels=7c3aed&dates=8b949e&hide_border=true" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=Garvit-821&background=0d1117&ring=7c3aed&fire=7c3aed&currStreakNum=c9d1d9&currStreakLabel=7c3aed&sideNums=c9d1d9&sideLabels=7c3aed&dates=8b949e&hide_border=true&v=2" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Garvit-821&bg_color=0d1117&color=c9d1d9&title_color=7c3aed&line=7c3aed&point=7c3aed&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Garvit-821&bg_color=0d1117&color=c9d1d9&title_color=7c3aed&line=7c3aed&point=7c3aed&area=true&hide_border=true&v=2" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garvit-821&layout=compact&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&hide_border=true&cache_seconds=1800" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garvit-821&layout=compact&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&hide_border=true&v=2" width="42%" />
 </p>
+
 ### 🌐 Let’s Connect & Build
 
 I’m always open to collaborating on bold AI ideas, LLM-native tools, or automation-first products. Whether you’re a founder, developer, or AI enthusiast, reach out – let’s turn concepts into reality.
