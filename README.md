@@ -212,28 +212,28 @@
 # GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Garvit-821&show_icons=true&bg_color=0d1117&title_color=7c3aed&icon_color=7c3aed&text_color=c9d1d9&hide_border=true&v=2" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Garvit-821&show_icons=true&bg_color=0d1117&title_color=7c3aed&icon_color=7c3aed&text_color=c9d1d9&hide_border=true&count_private=true" width="49%" />
   
-  <img src="https://streak-stats.demolab.com?user=Garvit-821&background=0d1117&ring=7c3aed&fire=7c3aed&currStreakNum=c9d1d9&currStreakLabel=7c3aed&sideNums=c9d1d9&sideLabels=7c3aed&dates=8b949e&hide_border=true&v=2" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Garvit-821&background=0d1117&ring=7c3aed&fire=7c3aed&currStreakNum=c9d1d9&currStreakLabel=7c3aed&sideNums=c9d1d9&sideLabels=7c3aed&dates=8b949e&hide_border=true" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Garvit-821&bg_color=0d1117&color=c9d1d9&title_color=7c3aed&line=7c3aed&point=7c3aed&area=true&hide_border=true&v=2" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Garvit-821&theme=transparent" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garvit-821&layout=compact&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&hide_border=true&v=2" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garvit-821&layout=compact&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&hide_border=true&langs_count=8" width="42%" />
 </p>
 
 ### 🌐 Let’s Connect & Build
 
 I’m always open to collaborating on bold AI ideas, LLM-native tools, or automation-first products. Whether you’re a founder, developer, or AI enthusiast, reach out – let’s turn concepts into reality.
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://calendly.com/garvitprakash/30min" target="_blank"><img src="https://img.shields.io/badge/Book_a_Call-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white" /></a>
   <a href="https://discord.gg/your-invite"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="https://t.me/garvitprakash"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Garvit-821&label=Profile%20Views&color=7C3AED&style=flat" alt="visitor count" />
