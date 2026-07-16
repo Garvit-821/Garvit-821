@@ -212,7 +212,7 @@
 # GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Garvit-821&show_icons=true&bg_color=0d1117&title_color=7c3aed&icon_color=7c3aed&text_color=c9d1d9&hide_border=true&cache_seconds=0" width="49%" />
+  <img src="https://github-readme-stats.vercel.dev/api?username=Garvit-821&show_icons=true&bg_color=0d1117&title_color=7c3aed&icon_color=7c3aed&text_color=c9d1d9&hide_border=true&cache_seconds=0" width="49%" />
   
   <img src="https://streak-stats.demolab.com?user=Garvit-821&background=0d1117&ring=7c3aed&fire=7c3aed&currStreakNum=c9d1d9&currStreakLabel=7c3aed&sideNums=c9d1d9&sideLabels=7c3aed&dates=8b949e&hide_border=true&cache_seconds=0" width="49%" />
 </p>
